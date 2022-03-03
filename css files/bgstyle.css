@@ -1,0 +1,10 @@
+h1 {
+  background: brown;
+  text-decoration: black;
+  border-radius: 10px;
+}
+.mydiv {
+  border: 5px outset red;
+  background-color: lightblue;
+  text-align: center;
+}
